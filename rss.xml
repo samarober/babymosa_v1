@@ -1,0 +1,28 @@
+<rss version="2.0">
+    <channel>
+        <title>Babymosa</title>
+        <link>https://samarober.github.io/babymosa_v1/</link>
+        <description>Página del artista Babymosa</description>
+        <language>es-ES</language>
+        <image>
+            <title>Logo Babymosa</title>
+            <url>https://samarober.github.io/babymosa_v1/recursos/logo.png</url>
+            <link>https://samarober.github.io/babymosa_v1/</link>
+        </image>
+        <item>
+            <title>Inicio</title>
+            <link>https://samarober.github.io/babymosa_v1/index.html</link>
+            <description>Biografía y próximos conciertos</description>
+        </item>
+        <item>
+            <title>Prensa</title>
+            <link>Entradas de prensa relevantes</link>
+            <description>https://samarober.github.io/babymosa_v1/disco.html</description>
+        </item>
+        <item>
+            <title>Disco</title>
+            <link>Descripción del disco</link>
+            <description>https://samarober.github.io/babymosa_v1/disco.html</description>
+        </item>
+    </channel>
+</rss>
